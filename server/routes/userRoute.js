@@ -8,9 +8,13 @@ router.get('/',(req,res)=> {
 })
 
 router.get('/settings',(req,res) => {
-    
+
 })
 
 router.post('/settings',(req,res) => {
 
 })
+
+
+
+module.exports = router;
